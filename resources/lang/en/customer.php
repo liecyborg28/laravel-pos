@@ -16,36 +16,36 @@ return [
     //==========================================
     // Customers module messages
     //==========================================
-    'title' => 'Customers',
+    'title' => 'Pelanggan',
 
 
     //==========================================
     // Error handling messages
     //==========================================
-    'error_creating'    => 'Sorry, there\'re a problem while creating customer.',
-    'success_creating'   => 'Success, your customer have been created.',
-    'error_updating'    => 'Sorry, there\'re a problem while updating customer.',
-    'success_updating'  => 'Success, your customer have been updated.',
+    'error_creating'    => 'Maaf, terjadi masalah saat menambah pelanggan.',
+    'success_creating'   => 'Berhasil, pelanggan Anda telah tercipta.',
+    'error_updating'    => 'Maaf, terjadi masalah saat memperbarui pelanggan.',
+    'success_updating'  => 'Berhasil, pelanggan Anda telah diperbarui.',
 
     //==========================================
     // General module messages
     //==========================================
-    'working'           => 'Working Customer',
-    'Create_Customer'   => 'Create Customer',
-    'First_Name'        => 'First Name',
-    'Last_Name'         => 'Last Name',
+    'working'           => 'Pelanggan yang Bekerja',
+    'Create_Customer'   => 'Tambah Pelanggan',
+    'First_Name'        => 'Nama Depan',
+    'Last_Name'         => 'Nama Belakang',
     'Email'             => 'Email',
-    'Phone'             => 'Phone',
-    'Address'           => 'Address',
-    'Avatar'            => 'Avatar',
-    'Choose_file'       => 'Choose file',
-    'Update_Customer'   => 'Update Customer',
-    'Customer_List'     => 'Customer List',
-    'Add_Customer'      => 'Add Customer',
+    'Phone'             => 'Nomor Telepon',
+    'Address'           => 'Alamat',
+    'Avatar'            => 'Gambar',
+    'Choose_file'       => 'Pilih Berkas',
+    'Update_Customer'   => 'Perbarui Pelanggan',
+    'Customer_List'     => 'Daftar Pelanggan',
+    'Add_Customer'      => 'Tambah Pelanggan',
     'ID'                => 'ID',
-    'sure'              => 'Are you sure?',
-    'really_delete'     => 'Do you really want to delete this customer?',
-    'yes_delete'        => 'Yes, delete it!',
-    'No'                => 'No',
-    'Actions'           => 'Actions',
+    'sure'              => 'Apakah Anda Yakin?',
+    'really_delete'     => 'Apakah Anda yakin ingin menghapus pelanggan ini?',
+    'yes_delete'        => 'Ya, hapus!',
+    'No'                => 'Tidak',
+    'Actions'           => 'Menu',
 ];

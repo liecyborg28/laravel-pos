@@ -16,39 +16,39 @@ return [
     //==========================================
     // Product module messages
     //==========================================
-    'title' => 'Products',
-    'sure'  => 'Are you sure?',
+    'title' => 'Produk',
+    'sure'  => 'Apakah Anda Yakin?',
 
     //==========================================
     // Error handling messages
     //==========================================
-    'error_creating'    => 'Sorry, there a problem while creating product.',
-    'success_creating'  => 'Success, you product have been created.',
-    'error_updating'    => 'Sorry, there\'re a problem while updating product.',
-    'success_updating'  => 'Success, your product have been updated.',
+    'error_creating'    => 'Maaf, terjadi masalah saat membuat produk.',
+    'success_creating'  => 'Berhasil, produk Anda telah ditambahkan.',
+    'error_updating'    => 'Maaf, terjadi masalah saat memperbarui produk.',
+    'success_updating'  => 'Berhasil, produk Anda telah diperbarui.',
 
     //==========================================
     // Product table messages
     //==========================================
-    'Create_Product'    => 'Create Product',
+    'Create_Product'    => 'Tambah Produk',
     'Name'              => 'Name',
-    'Description'       => 'Description',
-    'Image'             => 'Image',
-    'Choose_file'       => 'Choose file',
-    'Barcode'           => 'Barcode',
-    'Price'             => 'Price',
-    'Quantity'          => 'Quantity',
+    'Description'       => 'Deskripsi',
+    'Image'             => 'Gambar',
+    'Choose_file'       => 'Pilih Berkas',
+    'Barcode'           => 'Kode Batang',
+    'Price'             => 'Harga',
+    'Quantity'          => 'Jumlah',
     'Status'            => 'Status',
-    'Edit_Product'      => 'Edit Product',
-    'Update'            => 'Update',
-    'Product_List'      => 'Product List',
+    'Edit_Product'      => 'Ubah Produk',
+    'Update'            => 'Perbarui',
+    'Product_List'      => 'Daftar Produk',
     'ID'                => 'ID',
-    'Created_At'        => 'Created At',
-    'Updated_At'        => 'Updated At',
-    'Actions'           => 'Actions',
-    'sure'              => 'Are you sure?',
-    'really_delete'     => 'Do you really want to delete this product?',
-    'yes_delete'        => 'Yes, delete it!',
-    'No'                => 'No',
+    'Created_At'        => 'Dibuat Pada',
+    'Updated_At'        => 'Diperbarui Pada',
+    'Actions'           => 'Menu',
+    'sure'              => 'Apakah Anda Yakin?',
+    'really_delete'     => 'Apakah Anda yakin ingin menghapus produk ini?',
+    'yes_delete'        => 'Ya, hapus!',
+    'No'                => 'Tidak',
 
 ];

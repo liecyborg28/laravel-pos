@@ -16,13 +16,13 @@ return [
     //==========================================
     // Settings module messages
     //==========================================
-    'title' => 'Dashboard',
+    'title' => 'Dasbor',
 
     //==========================================
     // General module messages
     //==========================================
-    'Income'            => 'Income',
-    'Income_Today'      => 'Income Today',
-    'Customers_Count'   => 'Customers Count',
-    'Orders_Count'      => 'Orders Count',
+    'Income'            => 'Pendapatan',
+    'Income_Today'      => 'Pendapatan Hari Ini',
+    'Customers_Count'   => 'Total Pelanggan',
+    'Orders_Count'      => 'Total Pesanan',
 ];

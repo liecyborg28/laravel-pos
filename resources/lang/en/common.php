@@ -16,33 +16,33 @@ return [
     //==========================================
     // General messages
     //==========================================
-    'Logout'        => 'Logout',
-    'success'       => 'success',
-    'Create'        => 'Create',
-    'Update'        => 'Update',
-    'Created_At'    => 'Created At',
-    'Actions'       => 'Actions',
-    'Active'        => 'Active',
-    'Inactive'      => 'Inactive',
-    'More_info'     => 'More info',
+    'Logout'        => 'Keluar',
+    'success'       => 'sukses',
+    'Create'        => 'Tambah',
+    'Update'        => 'Perbarui',
+    'Created_At'    => 'Dibuat Pada',
+    'Actions'       => 'Menu',
+    'Active'        => 'Aktif',
+    'Inactive'      => 'Tidak Aktif',
+    'More_info'     => 'Info Lanjutan',
 
     //==========================================
     // Footer messages
     //==========================================
-    'Version'       => 'Version',
-    'Copyright'     => 'Copyright',
-    'all_reserved'  => 'All rights reserved.',
+    'Version'       => 'Versi',
+    'Copyright'     => 'Hak Cipta',
+    'all_reserved'  => 'Hak cipta dilindungi undang-undang.',
 
     //==========================================
     // Navigation bar messages
     //==========================================
-    'Notifications'         => ':total Notifications',
-    'new_messages'          => ':total new messages',
-    'total_friend_request'  => ':total friend requests',
-    'total_new_reports'     => ':total new reports',
-    'see_all'               => 'See All Notifications',
-    'no_mins'               => ':mins mins',
-    'no_hours'              => ':hours hours',
-    'no_days'               => ':days days',
+    'Notifications'         => ':total notifikasi',
+    'new_messages'          => ':total pesan baru',
+    'total_friend_request'  => ':total permintaan teman',
+    'total_new_reports'     => ':total laporan baru',
+    'see_all'               => 'Lihat Semua Notifikasi',
+    'no_mins'               => ':mins menit',
+    'no_hours'              => ':hours jam',
+    'no_days'               => ':days hari',
 
 ];

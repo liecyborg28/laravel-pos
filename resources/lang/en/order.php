@@ -16,23 +16,23 @@ return [
     //==========================================
     // Orders module messages
     //==========================================
-    'title'         => 'Orders',
+    'title'         => 'Pesanan',
     'submit'        => 'Filter',
-    'Orders_List'   => 'Orders List',
+    'Orders_List'   => 'Daftar Pesanan',
 
     //==========================================
     // Table module messages
     //==========================================
     'ID'                => 'ID',
-    'Customer_Name'     => 'Customer Name',
+    'Customer_Name'     => 'Nama Pelanggan',
     'Total'             => 'Total',
-    'Received_Amount'   => 'Received Amount',
+    'Received_Amount'   => 'Jumlah Penerimaan',
     'Status'            => 'Status',
-    'To_Pay'            => 'To Pay',
-    'Created_At'        => 'Created At',
-    'Not_Paid'          => 'Not Paid',
-    'Partial'           => 'Partial',
-    'Paid'              => 'Paid',
-    'Change'            => 'Change',
+    'To_Pay'            => 'Dibayarkan',
+    'Created_At'        => 'Dibuat Pada',
+    'Not_Paid'          => 'Tidak Dibayar',
+    'Partial'           => 'Sebagian',
+    'Paid'              => 'Dibayar',
+    'Change'            => 'Kembalian',
 
 ];
