@@ -27,17 +27,17 @@ return [
     //==========================================
     // General messages
     //==========================================
-    'scan_barcode'      => 'Scan Barcode...',
-    'received_amount'   => 'Received Amount',
-    'confirm_pay'       => 'Receive',
+    'scan_barcode'      => 'Pindai kode batang ...',
+    'received_amount'   => 'Total Dana Diterima',
+    'confirm_pay'       => 'Terima',
     'cancel_pay'        => 'Cancel',
-    'general_customer'  => 'General Customer',
-    'product_name'      => 'Product Name',
-    'quantity'          => 'Quantity',
-    'price'             => 'Price',
+    'general_customer'  => 'Pelanggan Umum',
+    'product_name'      => 'Nama Produk',
+    'quantity'          => 'Jumlah',
+    'price'             => 'Harga',
     'total'             => 'Total',
-    'cancel'            => 'Cancel',
-    'checkout'          => 'Checkout',
-    'search_product'    => 'Search Product',
+    'cancel'            => 'Batal',
+    'checkout'          => 'Simpan',
+    'search_product'    => 'Cari Produk',
 
 ];

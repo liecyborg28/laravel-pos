@@ -30,7 +30,7 @@ return [
     //==========================================
     // General module messages
     //==========================================
-    'working'           => 'Pelanggan yang Bekerja',
+    'working'           => 'Pelanggan Umum',
     'Create_Customer'   => 'Tambah Pelanggan',
     'First_Name'        => 'Nama Depan',
     'Last_Name'         => 'Nama Belakang',

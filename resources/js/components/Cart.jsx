@@ -186,6 +186,7 @@ class Cart extends Component {
     setCustomerId(event) {
         this.setState({ customer_id: event.target.value });
     }
+
     handleClickSubmit() {
         Swal.fire({
             title: this.state.translations["received_amount"],
@@ -320,7 +321,9 @@ class Cart extends Component {
                                 type="button"
                                 className="btn btn-primary btn-block"
                                 disabled={!cart.length}
-                                onClick={this.handleClickSubmit}
+                                onClick={
+                                    this.handleClickSubmit
+                                }
                             >
                                 {translations["checkout"]}
                             </button>

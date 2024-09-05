@@ -24,5 +24,5 @@ return [
     'Income'            => 'Pendapatan',
     'Income_Today'      => 'Pendapatan Hari Ini',
     'Customers_Count'   => 'Total Pelanggan',
-    'Orders_Count'      => 'Total Pesanan',
+    'Orders_Count'      => 'Total Transaksi',
 ];

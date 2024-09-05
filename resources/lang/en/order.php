@@ -16,7 +16,7 @@ return [
     //==========================================
     // Orders module messages
     //==========================================
-    'title'         => 'Pesanan',
+    'title'         => 'Riwayat Transaksi',
     'submit'        => 'Filter',
     'Orders_List'   => 'Daftar Pesanan',
 
@@ -28,7 +28,7 @@ return [
     'Total'             => 'Total',
     'Received_Amount'   => 'Jumlah Penerimaan',
     'Status'            => 'Status',
-    'To_Pay'            => 'Dibayarkan',
+    'To_Pay'            => 'Jumlah Utang',
     'Created_At'        => 'Dibuat Pada',
     'Not_Paid'          => 'Tidak Dibayar',
     'Partial'           => 'Sebagian',
